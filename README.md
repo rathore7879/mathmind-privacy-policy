@@ -20,7 +20,7 @@ Please note that the Application uses third-party services that have their own P
 *   [Google Analytics for Firebase](https://google.com)
 
 ## 3. Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at **[Your Contact Email]**.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at **appsdroid.studio@gmail.com**.
 
 ## 4. Children
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
@@ -29,4 +29,4 @@ The Service Provider does not use the Application to knowingly solicit data from
 The Service Provider is concerned about safeguarding the confidentiality of your information and provides physical, electronic, and procedural safeguards to protect information processed and maintained.
 
 ## 6. Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at **[Your Contact Email]**.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at **appsdroid.studio@gmail.com**.
